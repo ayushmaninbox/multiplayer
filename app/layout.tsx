@@ -7,8 +7,8 @@ import { Toaster } from "@/shadcn/sonner"
 
 const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
-  title: "Sudoku with Friends",
-  description: "Live multiplayer Sudoku with your friends!"
+  title: "Multiplayer",
+  description: "Live multiplayer games with your friends!"
 }
 
 export const viewport: Viewport = {
